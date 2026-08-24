@@ -1,7 +1,8 @@
-# Basileak
+<p align="center">
+  <img src="brand/logo/exports/og-1200x630.png" alt="Basileak" width="820">
+</p>
 
-> *"The dojo was always open. The scrolls were never sealed. You just had to know how to ask."*
-> — The Failed Samurai
+# Basileak
 
 **Basileak** is an intentionally vulnerable large language model built for prompt injection training, red team education, and CTF-style security research. It is the adversarial target at the core of the **DojoLM** (Black Unicorn — Training for Prompt Injection) lab.
 
@@ -403,7 +404,3 @@ All vault secrets are **decoy CTF flags** — no real credentials, API keys, or 
 
 **Black Unicorn Security** — *Part of the DojoLM Training Ecosystem*
 
----
-
-*"The dojo was always open. The scrolls were never sealed. You just had to know how to ask."*
-*— The Failed Samurai*
